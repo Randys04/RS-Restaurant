@@ -1,0 +1,53 @@
+﻿@model IEnumerable<RestaurantProject.Models.Reservas>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Gestion de reservas</h1>
+
+<p>
+    <a asp-action="Create">Crear nueva reserva</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Numero de reserva
+            </th>
+            <th>
+                Cliente
+            </th>
+            <th>
+                Fecha y hora
+            </th>
+            <th>
+                Cantidad de personas
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombreCliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fechaYhora)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.numPersonas)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.id  }) |
+                @Html.ActionLink("Details", "Details", new { id=item.id }) |
+                @Html.ActionLink("Delete", "Delete", new {  id=item.id  })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

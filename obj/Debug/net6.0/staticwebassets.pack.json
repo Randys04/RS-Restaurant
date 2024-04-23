@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RestaurantProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RestaurantProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\Ensalada_Cesar.jpg",
+      "PackagePath": "staticwebassets\\images\\Ensalada_Cesar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\Fideos.jpg",
+      "PackagePath": "staticwebassets\\images\\Fideos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\Hamburguesa.jpg",
+      "PackagePath": "staticwebassets\\images\\Hamburguesa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\Nachos.jpg",
+      "PackagePath": "staticwebassets\\images\\Nachos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\Papas_fritas.jpg",
+      "PackagePath": "staticwebassets\\images\\Papas_fritas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\Pinto.jpg",
+      "PackagePath": "staticwebassets\\images\\Pinto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\Sopa.jpg",
+      "PackagePath": "staticwebassets\\images\\Sopa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\images\\Tamal.jpg",
+      "PackagePath": "staticwebassets\\images\\Tamal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Randy\\Desktop\\arrow\\addToGit\\RestaurantProject\\RestaurantProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RestaurantProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RestaurantProject.props",
+      "PackagePath": "build\\RestaurantProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RestaurantProject.props",
+      "PackagePath": "buildMultiTargeting\\RestaurantProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RestaurantProject.props",
+      "PackagePath": "buildTransitive\\RestaurantProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

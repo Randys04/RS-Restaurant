@@ -1,0 +1,50 @@
+﻿@model IEnumerable<RestaurantProject.Models.Ventas>
+
+@{
+    ViewData["Title"] = "ListaDia";
+}
+
+<h1>Lista de ventas en un dia</h1>
+
+<div>
+    <a asp-action="SeleccionarFiltros">Volver al generador de reportes de ventas</a>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                ID
+            </th>
+            <th>
+                Fecha y hora
+            </th>
+            <th>
+                Plato
+            </th>
+            <th>
+                Cantidad
+            </th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.fechaYhora)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.platos)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.cantidad)
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>

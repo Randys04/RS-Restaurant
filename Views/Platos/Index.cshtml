@@ -1,0 +1,71 @@
+﻿@model IEnumerable<RestaurantProject.Models.Platos>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Gestion de platos</h1>
+
+<p>
+    <a asp-action="Create">Crear nuevo plato</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                ID del plato
+            </th>
+            <th>
+                Nombre
+            </th>
+            <th>
+                Descripcion
+            </th>
+            <th>
+                Precio
+            </th>
+            <th>
+                Categoria
+            </th>
+            <th>
+                Imagen
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+           <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.precio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.categoria)
+            </td>
+            <td>
+                <style>
+                    .image {
+                       width: 80px;
+                       height: 80px
+                    }
+                </style>
+                    <img src="@item.imagen" alt="@item.imagen" class="image">
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,62 @@
+﻿@model IEnumerable<RestaurantProject.Models.Ventas>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Gestion de ventas</h1>
+
+<style>
+    .div-nota{
+        margin-bottom: 15px;
+    }
+</style>
+<div class="div-nota">Nota: Deben haber platos creados para poder realizar ventas</div>
+
+<p>
+    <a asp-action="Create">Crear nueva venta</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Numero de orden
+            </th>
+            <th>
+                Plato
+            </th>
+            <th>
+                Fecha y hora
+            </th>
+            <th>
+                Cantidad
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.platos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fechaYhora)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cantidad)
+            </td>
+            <td>
+                @*se definen las llaves primarias para cada una de la vistas*@
+                @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
+                @Html.ActionLink("Details", "Details", new { id=item.id }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

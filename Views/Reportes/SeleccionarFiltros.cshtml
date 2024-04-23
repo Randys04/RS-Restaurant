@@ -1,0 +1,91 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>Generador de reportes de ventas</h1>
+<label id="titulo-tipo-reporte">Seleccione el tipo de reporte que desea generar</label>
+
+
+<select id="cBoxTipoReporte"> 
+    <option value="rango">Rango de fechas</option>
+    <option value="mes">Ventas en un mes</option>
+    <option value="dia">Ventas en un dia</option>
+</select>
+<hr />
+
+<form id="rangoFechas" method="post" action="@Url.Action("RedirectToListView1", "Reportes")">
+    <h5>Seleccione el rango de fechas que desea para generar el reporte</h5>
+    <label for="fechaInicio">Fecha de inicio:</label>
+    <input type="date" id="fechaInicio" name="fechaInicio">
+
+    <label for="fechaFin">Fecha de fin:</label>
+    <input type="date" id="fechaFin" name="fechaFin">
+
+    <button type="submit" name="btnAction" value="rangoFechas">Generar Reporte</button>
+</form>
+
+
+<form id="rangoMes" method="post" action="@Url.Action("RedirectToListView2", "Reportes")">
+    <h5>Seleccione el mes y año que desea para generar el reporte</h5>
+    <label for="fechaMes">Año y mes:</label>
+    <input type="month" id="fechaMes" name="fechaMes">
+
+    <button type="submit" name="btnAction" value="rangoMes">Generar Reporte</button>
+</form>
+
+<form id="rangoDia" method="post" action="@Url.Action("RedirectToListView3", "Reportes")">
+    <h5>Seleccione el dia que desea para generar el reporte</h5>
+    <label for="fechaDia">Fecha (dia):</label>
+    <input type="date" id="fechaDia" name="fechaDia">
+
+    <button type="submit" name="btnAction" value="rangoDia">Generar Reporte</button>
+</form>
+
+<script>
+    let cBoxTipo = document.getElementById("cBoxTipoReporte");
+    let formFechas = document.getElementById("rangoFechas");
+    let formMes = document.getElementById("rangoMes");
+    let formDia = document.getElementById("rangoDia");
+
+    function mostrarForms(){
+        let tipoElegido = cBoxTipo.value; 
+
+        if (tipoElegido == "rango"){
+            formFechas.style.display = "flex";
+            formMes.style.display = "none";
+            formDia.style.display = "none";
+
+        } else if (tipoElegido == "mes") {
+            formFechas.style.display = "none";
+            formMes.style.display = "flex";
+            formDia.style.display = "none";
+
+        } else if (tipoElegido == "dia") {
+            formFechas.style.display = "none";
+            formMes.style.display = "none";
+            formDia.style.display = "flex";
+        }
+    }
+
+    mostrarForms();
+    cBoxTipo.addEventListener("change", mostrarForms);
+</script>
+
+
+
+<style>
+    form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    input, button {
+        width: 220px;
+        margin-bottom: 10px;
+    }
+
+    #titulo-tipo-reporte {
+        margin-bottom: 10px;
+    }
+</style>
